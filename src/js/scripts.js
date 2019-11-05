@@ -37,7 +37,12 @@ function redirect(e) {
         url = "https://duckduckgo.com/?q="+query;
         break;
     }
-    window.location = url;
+    openurl(url)
+}
+
+function openurl(url){
+  var redirectWindow = window.open(url, '_blank');
+  redirectWindow.location;
 }
 
 const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
