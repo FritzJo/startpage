@@ -9,3 +9,10 @@ This repository contains the basic layout of my personal browser startpage. If y
 ## Frameworks
 * MaterializeCSS
 * TypeIt.js
+
+## Screenshots
+### Dark mode (default)
+![darkmode](doc/dark.png)
+
+### Light mode
+![darkmode](doc/light.png)
