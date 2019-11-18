@@ -1,5 +1,5 @@
 # Startpage / Dashboard
-This repository contains the basic layout of my personal browser startpage. If you want to add your own bookmarks, edit the card-div's of the index.html. In the future I plan to use a static site generator for this task.
+This repository contains the basic layout of my personal browser startpage. If you want to add your own bookmarks, edit the card-div's of the [index.html](https://github.com/FritzJo/startpage/blob/master/src/index.html). In the future I plan to use a static site generator for this task.
 
 ## Features
 * Search bar with search engine selection
